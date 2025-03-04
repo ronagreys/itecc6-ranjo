@@ -1,2 +1,2 @@
 # itecc6-ranjo
-Repository for ITECC6 Application Development &amp; Emerging Technologies 
+ITECC6 Application Development &amp; Emerging Technologies 
